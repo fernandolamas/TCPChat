@@ -24,7 +24,6 @@ _ Una vez descargado el proyecto lo abrimos con netbeans ambos proyectos Server 
 
 ## Construido con 🛠️
 
-_ Menciona las herramientas que utilizaste para crear tu proyecto _
 
 * [Apache Commons Codec](http://commons.apache.org/proper/commons-codec/) - El framework web usado
 
